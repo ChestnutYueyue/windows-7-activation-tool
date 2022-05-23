@@ -1,37 +1,9 @@
 {
     cmdlines = {
         [[xmake l c:\Users\RiCoCoSoul\.vscode\extensions\tboox.xmake-vscode-1.6.4\assets\explorer.lua]],
-        [[xmake l c:\Users\RiCoCoSoul\.vscode\extensions\tboox.xmake-vscode-1.6.4\assets\explorer.lua]],
-        "xmake ",
-        [[xmake l c:\Users\RiCoCoSoul\.vscode\extensions\tboox.xmake-vscode-1.6.4\assets\explorer.lua]],
         [[xmake l c:\Users\RiCoCoSoul\.vscode\extensions\tboox.xmake-vscode-1.6.4\assets\config.lua]],
         [[xmake l c:\Users\RiCoCoSoul\.vscode\extensions\tboox.xmake-vscode-1.6.4\assets\explorer.lua]],
         [[xmake l c:\Users\RiCoCoSoul\.vscode\extensions\tboox.xmake-vscode-1.6.4\assets\explorer.lua]],
-        [[xmake l c:\Users\RiCoCoSoul\.vscode\extensions\tboox.xmake-vscode-1.6.4\assets\explorer.lua]],
-        [[xmake l c:\Users\RiCoCoSoul\.vscode\extensions\tboox.xmake-vscode-1.6.4\assets\explorer.lua]],
-        [[xmake f -p mingw -a x86_64 -m release -o c:\Users\RiCoCoSoul\Documents\code\windows/build]],
-        "xmake ",
-        [[xmake lua "C:\\\\Program Files\\\\xmake\\\\actions\\\\build\\\\statistics.lua"]],
-        [[xmake lua "C:\\\\Program Files\\\\xmake\\\\actions\\\\build\\\\cleaner.lua"]],
-        "xmake ",
-        "xmake ",
-        "xmake r",
-        "xmake ",
-        "xmake ",
-        "xmake ",
-        "xmake ",
-        "xmake ",
-        "xmake -w",
-        "xmake ",
-        "xmake ",
-        "xmake ",
-        "xmake ",
-        "xmake ",
-        [[xmake l c:\Users\RiCoCoSoul\.vscode\extensions\tboox.xmake-vscode-1.6.4\assets\explorer.lua]],
-        [[xmake l c:\Users\RiCoCoSoul\.vscode\extensions\tboox.xmake-vscode-1.6.4\assets\explorer.lua]],
-        [[xmake l c:\Users\RiCoCoSoul\.vscode\extensions\tboox.xmake-vscode-1.6.4\assets\config.lua]]
-    }
-}
-}a .vscode]]
+        [[xmake l c:\Users\RiCoCoSoul\.vscode\extensions\tboox.xmake-vscode-1.6.4\assets\explorer.lua]]
     }
 }
