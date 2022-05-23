@@ -1,0 +1,83 @@
+{
+    find_program = {
+        ccache = false,
+        ["D:\\Qt\\Tools\\mingw810_64\\bin\\x86_64-w64-mingw32-g++"] = [[D:\Qt\Tools\mingw810_64\bin\x86_64-w64-mingw32-g++]],
+        qmake = [[D:\Qt\5.15.2\mingw81_64\bin\qmake]]
+    },
+    ["detect.sdks.find_qt"] = {
+        qt = {
+            sdkdir = "D:/Qt/5.15.2/mingw81_64",
+            pluginsdir = "D:/Qt/5.15.2/mingw81_64/plugins",
+            mkspecsdir = [[D:\Qt\5.15.2\mingw81_64\mkspecs]],
+            libexecdir = "D:/Qt/5.15.2/mingw81_64/bin",
+            sdkver = "5.15.2",
+            includedir = "D:/Qt/5.15.2/mingw81_64/include",
+            bindir = "D:/Qt/5.15.2/mingw81_64/bin",
+            qmldir = "D:/Qt/5.15.2/mingw81_64/qml",
+            libdir = "D:/Qt/5.15.2/mingw81_64/lib"
+        }
+    },
+    find_program_mingw_arch_x86_64_plat_mingw_checktoolmrc = {
+        ["x86_64-w64-mingw32-windres"] = false,
+        ["D:\\Qt\\Tools\\mingw810_64\\bin\\windres"] = [[D:\Qt\Tools\mingw810_64\bin\windres]]
+    },
+    find_program_mingw_arch_x86_64_plat_mingw_checktoolcxx = {
+        ["x86_64-w64-mingw32-g++"] = [[D:\Qt\Tools\mingw810_64\bin\x86_64-w64-mingw32-g++]]
+    },
+    ["detect.tools.gcc.has_cflags"] = {
+        ["D:\\Qt\\Tools\\mingw810_64\\bin\\x86_64-w64-mingw32-g++_8.1.0"] = {
+            ["-print-multiarch"] = true,
+            ["-print-multi-os-directory"] = true,
+            ["-dumpversion"] = true,
+            ["-pass-exit-codes"] = true,
+            ["-Xassembler"] = true,
+            ["-S"] = true,
+            ["-print-multi-lib"] = true,
+            ["-time"] = true,
+            ["--target-help"] = true,
+            ["-Xlinker"] = true,
+            ["--help"] = true,
+            ["-print-sysroot-headers-suffix"] = true,
+            ["-dumpspecs"] = true,
+            ["-o"] = true,
+            ["--version"] = true,
+            ["-dumpmachine"] = true,
+            ["-pie"] = true,
+            ["-shared"] = true,
+            ["-save-temps"] = true,
+            ["-pipe"] = true,
+            ["-print-search-dirs"] = true,
+            ["-B"] = true,
+            ["-v"] = true,
+            ["-print-multi-directory"] = true,
+            ["-print-sysroot"] = true,
+            ["-x"] = true,
+            ["-Xpreprocessor"] = true,
+            ["--param"] = true,
+            ["-c"] = true,
+            ["-E"] = true,
+            ["-print-libgcc-file-name"] = true,
+            ["-no-canonical-prefixes"] = true
+        }
+    },
+    ["lib.detect.has_flags"] = {
+        ["mingw_x86_64_D:\\Qt\\Tools\\mingw810_64\\bin\\x86_64-w64-mingw32-g++_8.1.0_cxx_cxflags__-MMD -MF"] = true,
+        ["mingw_x86_64_D:\\Qt\\Tools\\mingw810_64\\bin\\x86_64-w64-mingw32-g++_8.1.0_cxx_cxflags__-fvisibility-inlines-hidden"] = true,
+        ["mingw_x86_64_D:\\Qt\\Tools\\mingw810_64\\bin\\x86_64-w64-mingw32-g++_8.1.0_cxx___-O3"] = true,
+        ["mingw_x86_64_D:\\Qt\\Tools\\mingw810_64\\bin\\x86_64-w64-mingw32-g++_8.1.0_cxx_cxflags__-DNDEBUG"] = true,
+        ["mingw_x86_64_D:\\Qt\\Tools\\mingw810_64\\bin\\x86_64-w64-mingw32-g++_8.1.0_cxx_cxflags__-fdiagnostics-color=always"] = true
+    },
+    ["detect.sdks.find_mingw"] = {
+        mingw = {
+            sdkdir = [[D:\Qt\Tools\mingw810_64]],
+            cross = "x86_64-w64-mingw32-",
+            bindir = [[D:\Qt\Tools\mingw810_64\bin]]
+        }
+    },
+    find_programver = {
+        ["D:\\Qt\\Tools\\mingw810_64\\bin\\x86_64-w64-mingw32-g++"] = "8.1.0"
+    },
+    find_program_mingw_arch_x86_64_plat_mingw_checktoolld = {
+        ["x86_64-w64-mingw32-g++"] = [[D:\Qt\Tools\mingw810_64\bin\x86_64-w64-mingw32-g++]]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    mingw_arch_x86_64_plat_mingw = {
+        __global = true,
+        cross = "x86_64-w64-mingw32-",
+        mingw = [[D:\Qt\Tools\mingw810_64]],
+        plat = "mingw",
+        bindir = [[D:\Qt\Tools\mingw810_64\bin]],
+        arch = "x86_64"
+    },
+    tool_target_windows7_Activation_mingw_x86_64_cxx = {
+        toolname = "gxx",
+        program = [[D:\Qt\Tools\mingw810_64\bin\x86_64-w64-mingw32-g++]],
+        toolchain_info = {
+            plat = "mingw",
+            name = "mingw",
+            cachekey = "mingw_arch_x86_64_plat_mingw",
+            arch = "x86_64"
+        }
+    },
+    tool_target_windows7_Activation_mingw_x86_64_ld = {
+        toolname = "gxx",
+        toolchain_info = {
+            plat = "mingw",
+            name = "mingw",
+            cachekey = "mingw_arch_x86_64_plat_mingw",
+            arch = "x86_64"
+        },
+        program = [[D:\Qt\Tools\mingw810_64\bin\x86_64-w64-mingw32-g++]]
+    },
+    tool_platform_mingw_x86_64_cxx = {
+        toolname = "gxx",
+        program = [[D:\Qt\Tools\mingw810_64\bin\x86_64-w64-mingw32-g++]],
+        toolchain_info = {
+            plat = "mingw",
+            name = "mingw",
+            cachekey = "mingw_arch_x86_64_plat_mingw",
+            arch = "x86_64"
+        }
+    },
+    tool_target_windows7_Activation_mingw_x86_64_mrc = {
+        toolname = "windres",
+        toolchain_info = {
+            plat = "mingw",
+            name = "mingw",
+            cachekey = "mingw_arch_x86_64_plat_mingw",
+            arch = "x86_64"
+        },
+        program = [[D:\Qt\Tools\mingw810_64\bin\windres]]
+    }
+}

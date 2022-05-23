@@ -1,0 +1,6 @@
+[ 16%]: compiling.qt.moc src\ExamineThread.h
+[ 50%]: compiling.release src\ExamineThread.cpp
+[ 50%]: compiling.release src\main.cpp
+[ 58%]: compiling.release src\widget.cpp
+[ 83%]: linking.release windows7_Activation.exe
+[100%]: build ok!

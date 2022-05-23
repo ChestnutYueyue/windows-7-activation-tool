@@ -1,0 +1,41 @@
+[
+{
+  "directory": "c:\\Users\\RiCoCoSoul\\Documents\\code\\windows-7-activation-tool",
+  "arguments": ["D:\\Qt\\Tools\\mingw810_64\\bin\\windres.exe", "-I", "c:\\Users\\RiCoCoSoul\\Documents\\code\\windows-7-activation-tool\\build\\.gens\\windows7_Activation\\mingw\\x86_64\\release\\rules\\qt\\ui", "src\\res.rc", "build\\.objs\\windows7_Activation\\mingw\\x86_64\\release\\src\\res.rc.obj"],
+  "file": "src\\res.rc"
+},
+{
+  "directory": "c:\\Users\\RiCoCoSoul\\Documents\\code\\windows-7-activation-tool",
+  "arguments": ["D:\\Qt\\5.15.2\\mingw81_64\\bin\\moc.exe", "-Ic:\\Users\\RiCoCoSoul\\Documents\\code\\windows-7-activation-tool\\build\\.gens\\windows7_Activation\\mingw\\x86_64\\release\\rules\\qt\\ui", "src\\mythread.h", "-o", "build\\.gens\\windows7_Activation\\mingw\\x86_64\\release\\rules\\qt\\moc\\moc_mythread.cpp"],
+  "file": "build\\.gens\\windows7_Activation\\mingw\\x86_64\\release\\rules\\qt\\moc\\moc_mythread.cpp"
+},
+{
+  "directory": "c:\\Users\\RiCoCoSoul\\Documents\\code\\windows-7-activation-tool",
+  "arguments": ["D:\\Qt\\Tools\\mingw810_64\\bin\\x86_64-w64-mingw32-g++.exe", "-c", "-m64", "-Ic:\\Users\\RiCoCoSoul\\Documents\\code\\windows-7-activation-tool\\build\\.gens\\windows7_Activation\\mingw\\x86_64\\release\\rules\\qt\\ui", "-framework", "QtNetwork", "-o", "build\\.objs\\windows7_Activation\\mingw\\x86_64\\release\\gens\\rules\\qt\\moc\\moc_mythread.cpp.obj", "build\\.gens\\windows7_Activation\\mingw\\x86_64\\release\\rules\\qt\\moc\\moc_mythread.cpp"],
+  "file": "build\\.gens\\windows7_Activation\\mingw\\x86_64\\release\\rules\\qt\\moc\\moc_mythread.cpp"
+},
+{
+  "directory": "c:\\Users\\RiCoCoSoul\\Documents\\code\\windows-7-activation-tool",
+  "arguments": ["D:\\Qt\\5.15.2\\mingw81_64\\bin\\moc.exe", "-Ic:\\Users\\RiCoCoSoul\\Documents\\code\\windows-7-activation-tool\\build\\.gens\\windows7_Activation\\mingw\\x86_64\\release\\rules\\qt\\ui", "src\\widget.h", "-o", "build\\.gens\\windows7_Activation\\mingw\\x86_64\\release\\rules\\qt\\moc\\moc_widget.cpp"],
+  "file": "build\\.gens\\windows7_Activation\\mingw\\x86_64\\release\\rules\\qt\\moc\\moc_widget.cpp"
+},
+{
+  "directory": "c:\\Users\\RiCoCoSoul\\Documents\\code\\windows-7-activation-tool",
+  "arguments": ["D:\\Qt\\Tools\\mingw810_64\\bin\\x86_64-w64-mingw32-g++.exe", "-c", "-m64", "-Ic:\\Users\\RiCoCoSoul\\Documents\\code\\windows-7-activation-tool\\build\\.gens\\windows7_Activation\\mingw\\x86_64\\release\\rules\\qt\\ui", "-framework", "QtNetwork", "-o", "build\\.objs\\windows7_Activation\\mingw\\x86_64\\release\\gens\\rules\\qt\\moc\\moc_widget.cpp.obj", "build\\.gens\\windows7_Activation\\mingw\\x86_64\\release\\rules\\qt\\moc\\moc_widget.cpp"],
+  "file": "build\\.gens\\windows7_Activation\\mingw\\x86_64\\release\\rules\\qt\\moc\\moc_widget.cpp"
+},
+{
+  "directory": "c:\\Users\\RiCoCoSoul\\Documents\\code\\windows-7-activation-tool",
+  "arguments": ["D:\\Qt\\Tools\\mingw810_64\\bin\\x86_64-w64-mingw32-g++.exe", "-c", "-m64", "-Ic:\\Users\\RiCoCoSoul\\Documents\\code\\windows-7-activation-tool\\build\\.gens\\windows7_Activation\\mingw\\x86_64\\release\\rules\\qt\\ui", "-framework", "QtNetwork", "-o", "build\\.objs\\windows7_Activation\\mingw\\x86_64\\release\\src\\main.cpp.obj", "src\\main.cpp"],
+  "file": "src\\main.cpp"
+},
+{
+  "directory": "c:\\Users\\RiCoCoSoul\\Documents\\code\\windows-7-activation-tool",
+  "arguments": ["D:\\Qt\\Tools\\mingw810_64\\bin\\x86_64-w64-mingw32-g++.exe", "-c", "-m64", "-Ic:\\Users\\RiCoCoSoul\\Documents\\code\\windows-7-activation-tool\\build\\.gens\\windows7_Activation\\mingw\\x86_64\\release\\rules\\qt\\ui", "-framework", "QtNetwork", "-o", "build\\.objs\\windows7_Activation\\mingw\\x86_64\\release\\src\\mythread.cpp.obj", "src\\mythread.cpp"],
+  "file": "src\\mythread.cpp"
+},
+{
+  "directory": "c:\\Users\\RiCoCoSoul\\Documents\\code\\windows-7-activation-tool",
+  "arguments": ["D:\\Qt\\Tools\\mingw810_64\\bin\\x86_64-w64-mingw32-g++.exe", "-c", "-m64", "-Ic:\\Users\\RiCoCoSoul\\Documents\\code\\windows-7-activation-tool\\build\\.gens\\windows7_Activation\\mingw\\x86_64\\release\\rules\\qt\\ui", "-framework", "QtNetwork", "-o", "build\\.objs\\windows7_Activation\\mingw\\x86_64\\release\\src\\widget.cpp.obj", "src\\widget.cpp"],
+  "file": "src\\widget.cpp"
+}]

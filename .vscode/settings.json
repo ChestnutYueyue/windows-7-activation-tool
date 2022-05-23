@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "qtextcodec": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "qmap": "cpp",
+        "qnetworkaccessmanager": "cpp",
+        "qhash": "cpp",
+        "system_error": "cpp",
+        "qmutex": "cpp",
+        "qprocess": "cpp",
+        "qthread": "cpp"
+    }
+}
