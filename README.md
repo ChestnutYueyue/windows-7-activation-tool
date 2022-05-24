@@ -1,5 +1,5 @@
 # windows-7-activation-tool
-
+windows7电话激活工具
 ## 开发环境
    + 图像界面：Qt5 
    + 编译器：mingw11.2
