@@ -1,0 +1,18 @@
+{
+    find_program = {
+        qmake = "/usr/bin/qmake"
+    },
+    ["detect.sdks.find_qt"] = {
+        qt = {
+            bindir = "/usr/bin",
+            sdkdir = "/usr",
+            mkspecsdir = "/usr/lib/qt/mkspecs",
+            libexecdir = "/usr/lib/qt/libexec",
+            includedir = "/usr/include/qt",
+            libdir = "/usr/lib",
+            pluginsdir = "/usr/lib/qt/plugins",
+            sdkver = "5.15.3",
+            qmldir = "/usr/lib/qt/qml"
+        }
+    }
+}
